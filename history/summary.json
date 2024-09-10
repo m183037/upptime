@@ -1,20 +1,20 @@
 [
   {
     "name": "AppsAnywhere (Softwareportal)",
-    "url": "https://www.campussoft.uzh.ch",
-    "icon": "https://icons.duckduckgo.com/ip3/www.campussoft.uzh.ch.ico",
+    "url": "https://campussoft.uzh.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/campussoft.uzh.ch.ico",
     "slug": "apps-anywhere-softwareportal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 2246,
+    "timeDay": 2246,
+    "timeWeek": 2246,
+    "timeMonth": 2246,
+    "timeYear": 2246,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 844,
-    "timeWeek": 844,
-    "timeMonth": 844,
-    "timeYear": 844,
+    "time": 1382,
+    "timeDay": 1382,
+    "timeWeek": 1382,
+    "timeMonth": 1382,
+    "timeYear": 1382,
     "dailyMinutesDown": {}
   }
 ]
